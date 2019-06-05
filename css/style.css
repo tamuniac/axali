@@ -3,10 +3,29 @@
 	color: red;
 }
 .box1 {
-	text-align: right;
-
+	text-align: center;
+	color: green;
+	font-size: 70px;
 }
 #box1 {
-	text-align: left;
-	color: red;
+	text-align: right;
+	}
+.title {
+	    border: 9px solid red;
+        border-radius: 20px;
+         margin:70px 20px 40px 60px;
+}
+ul {
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.navigation-a {
+	color: blue;
+	font-size: 22px;
+	font-weight: bold;
+}
+.orange {
+	color: orange;
 }
