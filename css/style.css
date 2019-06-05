@@ -1,0 +1,12 @@
+.box {
+	text-align: center;
+	color: red;
+}
+.box1 {
+	text-align: right;
+
+}
+#box1 {
+	text-align: left;
+	color: red;
+}
